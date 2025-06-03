@@ -45,3 +45,6 @@ Your work will be automatically submitted when you push to your GitHub Classroom
 - [MongoDB Documentation](https://docs.mongodb.com/)
 - [MongoDB University](https://university.mongodb.com/)
 - [MongoDB Node.js Driver](https://mongodb.github.io/node-mongodb-native/) 
+
+ ## running the queries
+ -type node quries.js on your terminal
